@@ -1,6 +1,8 @@
-# Tugas Implementasi algoritma Pembelajaran Mesin : Naive-Bayes dan KNN
-## Tubes 2 Intelegensi Buatan
+# Tugas Implementasi Algoritma Pembelajaran Mesin : Naive-Bayes dan KNN
+
+## Tugas Besar 2 Intelegensi Buatan
 Implementasi algoritma Naive-Bayes dan KNN pada pelatihan dataset dan perbandingan hasil dengan menggunakan pustaka Skicit-learn
+
 ## Anggota 
 - 13521020 Varraz Hazzandra Abrar <br/>
 - 13521115 Shelma Salsabila <br/>
@@ -12,7 +14,6 @@ Implementasi algoritma Naive-Bayes dan KNN pada pelatihan dataset dan perbanding
 - VS Code
 - Python
 - Library : pandas, jcompl, sklearn, numpy, matplotlib
-
 
 ## Project Structure
 ```bash
@@ -27,14 +28,15 @@ Implementasi algoritma Naive-Bayes dan KNN pada pelatihan dataset dan perbanding
 │       ├── knn-skicit-checkpoint.ipynb 
 │       ├── main-checkpoint.ipynb  
 │       ├── naive-bayes-checkpoint.ipynb 
-│       └── testkict-checkpoint.ipynb 
+│       └── testkict-checkpoint.ipynb
+├── model
 │   ├── hasil.txt
 │   ├── hasilknn.txt
-│   ├── knn-skicit.ipynb
-│   ├── knn.ipynb 
-│   ├── main.ipynb  
-│   ├── naive_bayes.ipynb 
-│   └── testkict.ipynb 
+├── knn-skicit.ipynb
+├── knn.ipynb 
+├── main.ipynb  
+├── naive_bayes.ipynb 
+├── nb_skicit.ipynb 
 └── README.md
 ```
 ## Setup

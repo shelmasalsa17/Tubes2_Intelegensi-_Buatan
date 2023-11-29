@@ -1,5 +1,5 @@
 # Tugas Implementasi algoritma Pembelajaran Mesin : Naive-Bayes dan KNN
-## Tubes 2 Intelejensia Buatan
+## Tubes 2 Intelegensi Buatan
 Implementasi algoritma Naive-Bayes dan KNN pada pelatihan dataset dan perbandingan hasil dengan menggunakan pustaka Skicit-learn
 ## Anggota 
 - 13521020 Varraz Hazzandra Abrar <br/>

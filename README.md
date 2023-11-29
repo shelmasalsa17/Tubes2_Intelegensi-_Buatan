@@ -29,14 +29,14 @@ Implementasi algoritma Naive-Bayes dan KNN pada pelatihan dataset dan perbanding
 │       ├── main-checkpoint.ipynb  
 │       ├── naive-bayes-checkpoint.ipynb 
 │       └── testkict-checkpoint.ipynb
+|  ├── knn-skicit.ipynb
+|  ├── knn.ipynb 
+|  ├── main.ipynb  
+|  ├── naive_bayes.ipynb 
+|  ├── nb_skicit.ipynb
 ├── model
 │   ├── hasil.txt
 │   └── hasilknn.txt
-├── knn-skicit.ipynb
-├── knn.ipynb 
-├── main.ipynb  
-├── naive_bayes.ipynb 
-├── nb_skicit.ipynb 
 └── README.md
 ```
 ## Setup
